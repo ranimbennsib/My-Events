@@ -1,0 +1,26 @@
+{
+events: [
+        {
+          id: 5928101,
+          category: "bien-etre animal",
+          title: "journee d'acceptation des chats",
+          description: "trouvez votre nouvel ami felin lors de cet evenement",
+          location: "moey town",
+          date: "28 january 2022",
+          time: "12:00",
+          petsallowed: true,
+          organizer: "foulen ben foulen",
+        },
+        {
+          id: 8794425,
+          category: "bien-etre blabla",
+          title: "journee d'acceptation des chien",
+          description: "trouvez votre nouvel gghc; felin lors de cet evenement",
+          location: "habhab town",
+          date: "16 january 2021",
+          time: "2:00",
+          petsallowed: true,
+          organizer: "foulen ben foulen",
+        },
+      ],
+}
