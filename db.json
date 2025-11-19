@@ -1,5 +1,4 @@
-{
-events: [
+events:[
         {
           id: 5928101,
           category: "bien-etre animal",
@@ -23,4 +22,3 @@ events: [
           organizer: "foulen ben foulen",
         },
       ],
-}
